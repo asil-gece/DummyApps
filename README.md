@@ -1,2 +1,1 @@
-# DummyApps
-Bunch of dumb apps written in different languages while killing time. (¬_¬")
+A counter app that does nothing but counting numbers. Healthier way of wasting time than scrolling Reels.
