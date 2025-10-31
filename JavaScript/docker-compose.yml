@@ -1,0 +1,12 @@
+
+services:
+  counter:
+    build:
+      context: ./CounterApp
+    container_name: counter-dev
+    working_dir: /app
+    volumes:
+      - ./CounterApp:/app
+      - /app/node_modules
+    tty: true
+    stdin_open: true
